@@ -1,0 +1,80 @@
+#r2{
+    width:70%;
+}
+#r1{
+    background-image: url("http://lee7.me/linked.svg");
+    width:100%;
+    
+    height:208px;
+    margin-left:167px;
+}
+.img2{
+    border:10px solid transparant;
+    border-style:double;
+    margin-left:40px;
+    height:70%;
+    margin-top:140px;
+    border-color:blue;
+    }
+#c1{
+    top:280px;
+    position:fixed;
+    margin-left:160px;
+    position:fixed;
+    
+
+}
+#c2{
+    top:300px;
+    position:fixed;
+    margin-left:800px;
+    
+    
+}
+#c3{
+    top:400px;
+    position: fixed;
+    margin-left: 170px;
+    
+}
+#c4{
+    position:fixed;
+    top:400px;
+    margin-left:320px;
+}
+#c5{
+    position:fixed;
+    margin-left:170px;
+    margin-top:250px;
+    width:70%;
+    border:1px solid;
+    border-left:none;
+    border-right:none;
+    border-color:grey;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+#c6{
+    position:fixed;
+    margin-top:380px;
+    color:blue;
+    margin-left:170px;
+    border:1px solid;
+    width:70%;
+    border-color:grey;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    padding-left:400px;
+    
+    
+}
+#c7{
+    margin-left:-10px;
+}
+#c8{
+position:fixed;
+margin-left:1000px;
+color:blue;
+margin-top:20px;
+}
